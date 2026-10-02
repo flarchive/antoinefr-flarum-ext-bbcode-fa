@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `antoi
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `v2.0.0`
+- **Flarum Compatibility:** `^0.1.0-beta.6 || ^1.0 || ^2.0`
+- **Direct Download (.zip):** [Download v2.0.0 (.zip)](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/archive/refs/tags/archive/v2.0.0.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/antoinefr-flarum-ext-bbcode-fa.json)
 - Upstream repository: https://github.com/AntoineFr/flarum-ext-bbcode-fa.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
