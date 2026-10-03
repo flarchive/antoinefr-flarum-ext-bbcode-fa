@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of antoinefr/flarum-ext-bbcode-fa.** Not for installation: use [Packagist](https://packagist.org/packages/antoinefr/flarum-ext-bbcode-fa) or the [upstream repository](https://github.com/AntoineFr/flarum-ext-bbcode-fa).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.6 || ^1.0 || ^2.0`
+**7** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.6 || ^1.0 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-05-29 | `^0.1.0-beta.6 || ^1.0.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v1.0.0) |
+| `v1.1.0` | 2025-01-04 | `^0.1.0-beta.6 || ^1.0.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v1.1.0) |
+| `v2.0.0` | 2025-05-24 | `^0.1.0-beta.6 || ^1.0 || ^2.0` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v2.0.0) |
+| `0.2.0` | 2019-07-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v0.2.0) |
+| `0.2.1` | 2019-07-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v0.2.1) |
+| `v0.1.0` | 2017-02-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v0.1.0) |
+| `v0.1.1` | 2017-02-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/antoinefr-flarum-ext-bbcode-fa/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/antoinefr-flarum-ext-bbcode-fa.json](https://github.com/flarchive/archive-index/blob/main/packages/antoinefr-flarum-ext-bbcode-fa.json)
 
